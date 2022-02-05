@@ -5,6 +5,7 @@ import requests
 from PyQt5.QtGui import QPixmap
 from PyQt5.QtWidgets import QApplication, QWidget, QLabel
 
+
 SCREEN_SIZE = [450, 450]
 
 
